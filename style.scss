@@ -1,0 +1,11 @@
+@import "variabili";
+
+#purpleBox {
+    background-color: $colore1;
+     // boh non va background-image: url(assets/img/hero-img.png);
+}
+
+#backgroundGuy {
+    max-width: 100%;
+    height: auto;
+}
